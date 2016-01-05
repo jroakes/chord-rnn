@@ -1,7 +1,7 @@
 
 # chord-rnn
 
-This is an mashup of several of the char-rnn versions on Github.  All of the versions are based on the initial code from Kaparthy [karpathy/char-rnn](https://github.com/karpathy/char-rnn)
+This is an mashup of several of the char-rnn versions on Github.  All of the versions are based on the initial code from Karpathy [karpathy/char-rnn](https://github.com/karpathy/char-rnn)
 
 A few of the changes from Karparthy's version include:
 * A separate config.lua file for specifying the paratmeters for training and sampling
