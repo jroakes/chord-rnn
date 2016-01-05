@@ -7,7 +7,7 @@ A few of the changes from Karparthy's version include:
 * A separate config.lua file for specifying the paratmeters for training and sampling
 * Word / Character level prediction
 * Glove Embeddings (as well as OneHot)
-* <unk> handling
+* unk (unknown) handling
 * perplexity file in the util directory
 * rmsprop|sgd|adagrad|asgd|adam optimizers
 * Prints to file instead of stdout (output.txt)
